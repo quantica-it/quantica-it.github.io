@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Quantica IT
 email: richard@quantica.nl
 url: http://blog.quantica.nl
 description: "Knowledge sharing from Richard Diphoorn, owner of Quantica IT. Articles on Microsoft products and technologies like Azure, Windows, PowerShell, System Center, Exchange, Active Directory. "
@@ -16,9 +16,9 @@ color:
 # Footer settings
 footer:
   copyright: Quantica IT
-  location: Klazienaveen
-  social: All around the Web
-  credits: Credits
+  #location: Klazienaveen
+  #social: All around the Web
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -34,7 +34,7 @@ social:
   #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
+#address:
   #- line: 3481 Melrose Place
   #- line: Beverly Hills, CA 90210
 
